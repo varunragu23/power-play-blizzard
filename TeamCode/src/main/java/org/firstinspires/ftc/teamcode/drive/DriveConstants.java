@@ -59,9 +59,9 @@ public class DriveConstants {
      */
     // Double wheel odometry
     //public static double kV = 1.0 / rpmToVelocity(MAX_RPM);
-    public static double kV = 0.01525;
-    public static double kA = 0.00179;
-    public static double kStatic = 0.07508;
+    public static double kV = 0.1525;
+    public static double kA = 0.0179;
+    public static double kStatic = 0.7508;
 
     /*
      * These values are used to generate the trajectories for you robot. To ensure proper operation,
